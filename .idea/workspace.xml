@@ -15,9 +15,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -42,7 +47,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VBlog-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,10 +59,15 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\java\com\annz\pokemon\mapper" />
+      <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources\Mybatis" />
       <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources\templates" />
       <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources" />
     </key>
@@ -74,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Skill">
+  <component name="RunManager" selected="Application.PokemonApplication">
     <configuration name="PokemonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.annz.pokemon.PokemonApplication" />
       <module name="pokemon" />
@@ -149,8 +159,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Skill" />
         <item itemvalue="Application.PokemonApplication" />
+        <item itemvalue="Application.Skill" />
         <item itemvalue="Application.vchange" />
         <item itemvalue="Application.RefreshData" />
         <item itemvalue="Application.pokemon" />
@@ -177,11 +187,23 @@
       <workItem from="1587224133554" duration="193000" />
       <workItem from="1587285704730" duration="2190000" />
       <workItem from="1587746260142" duration="3665000" />
+      <workItem from="1587757604120" duration="4858000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pokemon$PokemonApplication.ic" NAME="PokemonApplication Coverage Results" MODIFIED="1587287203581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
