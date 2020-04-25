@@ -1,0 +1,3 @@
+#为传参
+where id =#{参数}
+参数名在Resultmap里有

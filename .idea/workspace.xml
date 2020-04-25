@@ -15,9 +15,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -47,7 +48,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VBlog-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,20 +56,20 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\java\com\annz\pokemon\mapper" />
       <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources\Mybatis" />
       <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources\templates" />
+      <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources" />
     </key>
   </component>
@@ -188,6 +189,7 @@
       <workItem from="1587285704730" duration="2190000" />
       <workItem from="1587746260142" duration="3665000" />
       <workItem from="1587757604120" duration="4858000" />
+      <workItem from="1587821183773" duration="9586000" />
     </task>
     <servers />
   </component>
@@ -199,7 +201,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
