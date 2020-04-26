@@ -28,20 +28,3 @@ class blank{
 
 }
 
-@RestController
- class WishingStarController {
-
-    @Autowired
-    private com.annz.pokemon.Service.WishingStarService WishingStarService;
-
-    @GetMapping("/wishingStar")
-    public WishingStar getstar(int id) {
-        return WishingStarService.selectstar(id);
-    }
-
-    @GetMapping("/allwish")
-    public List<WishingStar> allwish()
-    {
-        return WishingStarService.selectAllstar();
-    }
-}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.annz.pokemon.mapper.pokemonMapper">
+    <resultMap type="pokemon" id="pokemon">
+        <id column="id" property="id" jdbcType="INTEGER" />
+        <result column="name" property="name" jdbcType="VARCHAR" />
+        <result column="attack" property="attack" jdbcType="INTEGER" />
+        <result column="attack" property="attack" jdbcType="INTEGER" />
+        <result column="ap_attack" property="ap_attack" jdbcType="INTEGER" />
+        <result column="HP" property="HP" jdbcType="INTEGER" />
+        <result column="def" property="def" jdbcType="INTEGER" />
+        <result column="ap_def" property="ap_def" jdbcType="INTEGER" />
+        <result column="speed" property="speed" jdbcType="INTEGER" />
+        <result column="attribute" property="attribute" jdbcType="VARCHAR" />
+        <result column="attribute2" property="attribute2" jdbcType="VARCHAR" />
+        <result column="malerate" property="malerate" jdbcType="DOUBLE" />
+        <result column="exppan" property="exppan" jdbcType="INTEGER" />
+        <result column="Characteristicid" property="Characteristicid" jdbcType="INTEGER" />
+        <result column="info" property="info" jdbcType="VARCHAR" />
+    </resultMap>
+
+    <select id="getAllpokemon"  resultType="pokemon">
+        select *
+        from pokemon
+    </select>
+
+</mapper>

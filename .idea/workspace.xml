@@ -48,7 +48,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VBlog-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/mapper" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -63,13 +63,14 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources\mapper" />
+      <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\java\com\annz\pokemon\mapper" />
       <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources\Mybatis" />
       <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources\templates" />
-      <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Projects-all\JAVA_project\pokemon\src\main\resources" />
     </key>
   </component>
@@ -189,7 +190,10 @@
       <workItem from="1587285704730" duration="2190000" />
       <workItem from="1587746260142" duration="3665000" />
       <workItem from="1587757604120" duration="4858000" />
-      <workItem from="1587821183773" duration="9586000" />
+      <workItem from="1587821183773" duration="10341000" />
+      <workItem from="1587888711404" duration="208000" />
+      <workItem from="1587888971074" duration="776000" />
+      <workItem from="1587907844989" duration="8636000" />
     </task>
     <servers />
   </component>

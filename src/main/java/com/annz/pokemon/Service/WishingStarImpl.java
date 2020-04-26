@@ -22,4 +22,24 @@ public class WishingStarImpl implements WishingStarService {
     public List<WishingStar> selectAllstar() {
         return  WishingStarMapper.selectAllstar();
     }
+
+    @Override
+    public int insertWS(WishingStar ws) {
+        return WishingStarMapper.CreatWs(ws);
+    }
+
+    @Override
+    public int updateWs(String password,int id) {
+        return WishingStarMapper.updateWs(password,id);
+    }
+
+    @Override
+    public String selectac(int id, String password) {
+        return WishingStarMapper.selectac(id,password);
+    }
+
+    @Override
+    public int deletews(int id) {
+       return  WishingStarMapper.deletews(id);
+    }
 }
