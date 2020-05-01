@@ -3,6 +3,16 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/annz/pokemon/PokemonApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/util" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/assets" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/blocks.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/cards.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/carousels.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/forms.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/people.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/pricing.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/说明.htm" charset="GBK" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>
